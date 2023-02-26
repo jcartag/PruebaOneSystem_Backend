@@ -1,6 +1,6 @@
 package com.example.apirest_prueba.modelos;
 
-
+//Creacion de clases abstractas
 public abstract class Persona {
 
     public String nombre_completo;
