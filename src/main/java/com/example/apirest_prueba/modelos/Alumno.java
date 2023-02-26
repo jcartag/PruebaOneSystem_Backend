@@ -1,6 +1,7 @@
 package com.example.apirest_prueba.modelos;
 
 import jakarta.persistence.*;
+//Se crean la tabla Alumno con las anotaciones y con ello se hace al migracion a la base de datos
 
 @Entity(name = "Alumno")
 @Table(name = "Alumno")
